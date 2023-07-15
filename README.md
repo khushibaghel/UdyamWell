@@ -1,8 +1,10 @@
 # UdyamWell
 ## How to start
-### Run following commands on git bash
+### Get the code
+Download the zip file of code and extract all files in a directory
+### Run following commands in the directory on git bash
 1. Installing node and express
-   - Run `npm install`
+   - Run `npm init -y`
    - Run `npm i express`
 2. Run the final command for execution
    - `nodemon src/index.js`
