@@ -1,5 +1,8 @@
 # UdyamWell
 ## How to start
-#### Run `npm install` in order to install the following npm package dependencies as specified in the package.json.
-#### Run `npm i express`
-#### Run `nodemon src/index.js`
+1. Installing node and express
+   - Run `npm install`
+   - Run `npm i express`
+2. Run the final command for execution
+   `nodemon src/index.js`
+
