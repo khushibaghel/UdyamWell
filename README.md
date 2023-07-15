@@ -1,5 +1,6 @@
 # UdyamWell
 ## How to start
+### Run following commands on git bash
 1. Installing node and express
    - Run `npm install`
    - Run `npm i express`
